@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack web and flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanmitra2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmitra2002" /> </p>
-<img align="right" alt="web_dev" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanmitra2002" alt="ankanmitra2002" /></a> </p>
+<img align="right" alt="web_dev" width="50%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🔭 I’m currently working on [Chat-Stream](https://github.com/ankanmitra2002/Chat_Stream)
 
