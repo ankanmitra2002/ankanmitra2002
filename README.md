@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanmitra2002" alt="ankanmitra2002" /></a> </p>
 <img align="right" alt="web_dev" width="50%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on [Chat-Stream](https://github.com/ankanmitra2002/Chat_Stream)
+- 🔭 I’m currently working on [Tour and Travels](https://github.com/ankanmitra2002/Tour-and-Travels)
 
 - 🌱 I’m currently learning **Flutter, React, Machine learning**
 
