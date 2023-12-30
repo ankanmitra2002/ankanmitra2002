@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankanmitra2002](https://github.com/ankanmitra2002)
 
-- 💬 Ask me about **Java, Javascript, C, C++, React, Flutter**
+- 💬 Ask me about **Java, Javascript, C, C++, React, Flutter, PHP, Chakra UI**
 
 - 📫 How to reach me **ankankrmitra100@gmail.com**
 
